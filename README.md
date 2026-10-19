@@ -72,5 +72,5 @@ Golda Drop — симулятор апгрейда скинов, в которо
 ### Установка
 
 ```bash
-git clone https://github.com/your-repo/golda-drop.git
+git clone https://github.com/wm91388-ctrl/Golda-Drop1/tree/main
 cd golda-drop
